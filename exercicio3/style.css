@@ -5,11 +5,14 @@
 header{
   
 }
+main {
+  font-family: "Helvetica";
+}
 
 section{
   float: left;
 /*float é uma propriedade que permite deixar elementos à direita ou à esquerda da tela. Não costuma ser usado. Aqui, é usado apenas para ilustrar diferenças.*/
-  width: 840px;
+  width: 50%;
   padding: 40px;
 }
 
