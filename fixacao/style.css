@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: orange;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    border-bottom: solid black;
+    font-family: "Arial";
+}
+footer {
+    height: 40px;
+    padding: 10px;
+    color: black;
+    padding: 10px;
+    margin-left: 58px;
+}
+
+p {font-family: "Helvetica";
+}
+
+main {
+    margin: 15px;
+    padding: 20px 30px;
+    width: 90vw;
+    height: 80vh;
+}
+article {
+    margin: 25px 25px
+}
+
+span {
+    color: orange;
+}
+
